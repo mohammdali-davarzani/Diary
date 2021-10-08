@@ -82,7 +82,7 @@ WSGI_APPLICATION = 'Diary.wsgi.application'
 DATABASES = {
     'default': {
       'ENGINE': 'django.db.backends.postgresql_psycopg2',
-      'NAME': 'diary',
+      'NAME': 'Diary',
       'HOST': '127.0.0.1',
       'USER': 'mohammadali',
       'PASSWORD': 'M0h@mmadali',

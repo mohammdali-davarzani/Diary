@@ -1,8 +1,10 @@
 **/memoirs.bak
+**/**.pyc
+.idea
+**/__pycache__
+.DS_Store
 .venv
-.env
 venv
 env
 .vscode
-**/.pyc
-**/__pycache__
+**/api/migrations
