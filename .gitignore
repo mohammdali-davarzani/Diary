@@ -1,1 +1,8 @@
 **/memoirs.bak
+.venv
+.env
+venv
+env
+.vscode
+**/.pyc
+**/__pycache__
